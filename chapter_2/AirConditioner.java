@@ -11,7 +11,7 @@ public class AirConditioner{
 	}
 	
 	public void decreaseTemperature(){
-	
+		return;
 	}
 	
 	public String getProductName(){
@@ -23,7 +23,7 @@ public class AirConditioner{
 	}
 	
 	public void increaseTemperature(){
-		
+		return;
 	}
 	
 	public boolean isOn(){
